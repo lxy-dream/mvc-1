@@ -1,0 +1,11 @@
+#app1 {
+  width: 50vw;
+  height: 50vh;
+}
+#app1 .output {
+  font-size: 36px;
+}
+button {
+  width: 10vw;
+  height: 5vh;
+}
